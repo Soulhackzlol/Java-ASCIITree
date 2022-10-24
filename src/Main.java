@@ -22,6 +22,7 @@ public class Main {
         return sb.toString();
     }
 
+    // OK JUST SO YALL UNDERTAND: TRONCO (ES) = TRUNK (EN). Im just too lazy to change it
     // adjust length based on int input
     static String buildTronco(int n){
         // nothing random here
